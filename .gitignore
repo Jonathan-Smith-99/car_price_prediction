@@ -161,3 +161,6 @@ cython_debug/
 
 
 catboost_info
+datasets\models_compare.csv
+datasets/models_compare_v2.csv
+datasets/models_compare_v3.csv
